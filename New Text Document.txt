@@ -1,0 +1,10 @@
+Selenium - Java -Backend 
+Playwright - JS -NodeJS/nextjs/nestjs
+
+JavaScript-Typescript
+
+var a:number;
+
+a='Neha'
+
+Selenium is java framework for testing
