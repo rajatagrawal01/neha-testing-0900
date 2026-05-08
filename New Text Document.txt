@@ -8,3 +8,7 @@ var a:number;
 a='Neha'
 
 Selenium is java framework for testing
+
+git config user.name "rajatagrawal01"
+
+git config user.email "rajatagrawal01@gmail.com"
